@@ -1,6 +1,6 @@
 # Insurance Data Warehouse: Profitability, Risk & Fraud
 
-**SQL Server · dimensional modeling · ETL** | BAN 621, Quinnipiac University · Team 8
+**SQL Server · dimensional modeling · ETL** 
 
 ## The business problem
 
